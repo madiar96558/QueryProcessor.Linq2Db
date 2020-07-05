@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryProcessor.Linq2Db", "QueryProcessor.Linq2Db\QueryProcessor.Linq2Db.csproj", "{2C0BC1F6-ACEE-4640-8154-0CD287A62492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{21767C43-47E8-4A85-8B4A-0E22DF1F6CF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C0BC1F6-ACEE-4640-8154-0CD287A62492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0BC1F6-ACEE-4640-8154-0CD287A62492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0BC1F6-ACEE-4640-8154-0CD287A62492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0BC1F6-ACEE-4640-8154-0CD287A62492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21767C43-47E8-4A85-8B4A-0E22DF1F6CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21767C43-47E8-4A85-8B4A-0E22DF1F6CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21767C43-47E8-4A85-8B4A-0E22DF1F6CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21767C43-47E8-4A85-8B4A-0E22DF1F6CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
